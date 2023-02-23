@@ -1,0 +1,39 @@
+
+    body {
+        background-color:rgb(94, 245, 94); font-size: xx-large;
+
+}
+    h1 {
+        background-color:rgb(36, 132, 36); font-size: xx-large;
+
+}
+
+    header {
+        font-size: x-large; 
+        font-family:Arial, Helvetica, sans-serif
+            
+}
+    .lixo {
+        font-size: xx-large;
+        font-family:Arial, Helvetica, sans-serif;
+        background-color:rgb(63, 100, 63);
+    
+
+}
+    .residuo {  
+        font-size:x-large;
+        font-family:Arial, Helvetica, sans-serif;
+        background-color:rgb(118, 178, 118);
+
+}
+
+    .referencia {
+        font-size: xx-small;
+        font-family:Arial, Helvetica, sans-serif;
+        text-align: right;
+}
+
+hr  {
+    color: aqua;
+}
+
